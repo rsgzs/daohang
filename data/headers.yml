@@ -12,7 +12,7 @@
   list:
     - name: 网盘
       icon: fab fa-github-alt
-      link: "cloud.moorli.de"
+      link: "https://cloud.moorli.de"
     - name: 状态
       icon: fab fa-font-awesome
       link: "https://tz.moorli.de/"
