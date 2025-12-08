@@ -2,25 +2,20 @@
   icon: fa fa-home
   link: "./"
 
-- item: 文档
-  # icon: fa fa-user-secret
-  icon: fa fa-file
-  link: https://cici.pp.ua
-
 - item: 博客
   icon: fa fa-blog
-  link: https://googhub.nyc.mn/
+  link: https://blog.moorli.de/
 
-- item: 关于
+- item: 友链
   icon: fa fa-cog
   link: ""
   list:
-    - name: 源码
+    - name: 网盘
       icon: fab fa-github-alt
-      link: "https://github.com/88899/vercel-hugo"
-    - name: 图标
+      link: "cloud.moorli.de"
+    - name: 状态
       icon: fab fa-font-awesome
-      link: "https://fontawesome.com/"
+      link: "https://tz.moorli.de/"
     # - name: 文档
     #   icon: fas fa-file-alt
     #   link: "https://doks.xazz.top/"
