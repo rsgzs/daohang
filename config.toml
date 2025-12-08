@@ -26,12 +26,12 @@ enableRobotsTXT = true
     nightMode     = false					# 默认站点为深色(夜间)模式
     yiyan         = false                         		# 默认启用一言服务
 
-[params.seo]
+#[params.seo]
     # baiduhmid     = '252f9700e4c1ad32c2647eb839ef71e6'		# 百度统计 hm.src 的 ID
     # baiduSiteVer  = 'codeva-cCAOSG8MBO'				# 百度HTML标签验证(baidu-site-verification)
     # tj51laid        = ''                        		# 51.LA 网站统计
     # tj51lack        = ''
-    GoogleAdsClient = 'G-TZZ8ZZD3FR'
+   # GoogleAdsClient = 'G-TZZ8ZZD3FR'
 
 [params.qweather]
     key = ""
