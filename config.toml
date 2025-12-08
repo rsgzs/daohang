@@ -35,15 +35,17 @@ enableRobotsTXT = true
 
 [params.qweather]
     key = ""
+[params.ads]
+    enable = false
 
 [params.images]
-    favicon           = "assets/images/favicon.png"           # 网站图标
+    favicon           = "assets/images/a.png"           # 网站图标
     searchImageL      = "https://s3.aiedu.qzz.io/website/bg-dna.jpg"             # 搜索部分浅色背景图
     searchImageD      = "https://s3.aiedu.qzz.io/website/bg-dna-d.jpg"             # 搜索部分深色背景图
-    logoExpandLight   = "assets/images/wuzi.png"               # 扩展状态下的浅色 logo
-    logoExpandDark    = "assets/images/wuzi-b.png"               # 扩展状态下的深色 logo
-    logoCollapseLight = "assets/images/favicon.png"           # 收起状态下的浅色 logo
-    logoCollapseDark  = "assets/images/favicon.png"           # 收起状态下的深色 logo
+    logoExpandLight   = "assets/images/a.png"               # 扩展状态下的浅色 logo
+    logoExpandDark    = "assets/images/a.png"               # 扩展状态下的深色 logo
+    logoCollapseLight = "assets/images/a.png"           # 收起状态下的浅色 logo
+    logoCollapseDark  = "assets/images/a.png"           # 收起状态下的深色 logo
 
 [markup.goldmark.renderer]
     unsafe = true
