@@ -1,31 +1,35 @@
 ---
-- taxonomy: Moorli推荐
+- taxonomy: Moorli服务
+  icon: fas fa-server fa-lg
+  links:
+    - title: Moorli云盘
+      logo: cloud.png
+      url: https://cloud.moorli.de/
+      description: 您的免费多端云盘助手
+    - title: Moorli VPS状态
+      logo: tz.png
+      url: https://tz.moorli.de/
+      description: 一键查看我的服务器分布-以针会友
+    - title: moorli机场
+      logo: air.png
+      url: https://air.moorli.de/
+      description: 一个私人免费机场
+    - title: Moorli 博客
+      logo: blog.png
+      url: https://blog.moorli.de/
+      description: 我的碎碎念与分享
+    - title: Moorli密码库
+      logo: mm.png
+      url: htttps://pass.moorli.de/
+      description: 自有密码保存库
+    - title: Moorli邮局
+      logo: mail.png
+      url: htttps://webmail.moorli.de/
+      description: 自有邮件收发
+      
+- taxonomy: MJJ的推荐
   icon: far fa-star
   links:
-   - title: Moorli云盘
-      logo:cloud.png
-      url:https://cloud.moorli.de/
-      description:您的免费多端云盘助手
-    - title: Moorli VPS状态
-      logo:tz.png
-      url:https://tz.moorli.de/
-      description:一键查看我的服务器分布-以针会友
-    - title: moorli机场
-      logo:air.png
-      url:https://air.moorli.de/
-      description:一个私人免费机场
-    - title: Moorli 博客
-      logo:blog.png
-      url:https://blog.moorli.de/
-      description:我的碎碎念与分享
-    - title: Moorli密码库
-      logo:mm.png
-      url:htttps://pass.moorli.de/
-      description:自有密码保存库
-    - title: Moorli邮局
-      logo:mail.png
-      url:htttps://webmail.moorli.de/
-      description:自有邮件收发
     - title: Alice
       logo: alice.ico
       url: https://app.alice.ws/
