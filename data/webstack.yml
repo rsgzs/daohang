@@ -20,11 +20,11 @@
       description: 我的碎碎念与分享
     - title: Moorli密码库
       logo: mm.png
-      url: htttps://pass.moorli.de/
+      url: https://pass.moorli.de/
       description: 自有密码保存库
     - title: Moorli邮局
       logo: mail.png
-      url: htttps://webmail.moorli.de/
+      url: https://webmail.moorli.de/
       description: 自有邮件收发
       
 - taxonomy: MJJ的推荐
