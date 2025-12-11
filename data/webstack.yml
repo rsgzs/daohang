@@ -1,8 +1,8 @@
 ---
-- taxonomy: Moorli服务
-  icon: fas fa-server fa-lg
+- taxonomy: Moorli推荐
+  icon: far fa-star
   links:
-    - title: Moorli云盘
+   - title: Moorli云盘
       logo:cloud.png
       url:https://cloud.moorli.de/
       description:您的免费多端云盘助手
@@ -26,13 +26,6 @@
       logo:mail.png
       url:htttps://webmail.moorli.de/
       description:自有邮件收发
-- taxonomy: MJJ的推荐
-  icon: far fa-star
-  links:
-    - title: 博客
-      logo: aiedu.png
-      url: https://blog.moorli.de/
-      description: 我的博客站
     - title: Alice
       logo: alice.ico
       url: https://app.alice.ws/
