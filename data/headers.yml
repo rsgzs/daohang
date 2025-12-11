@@ -1,21 +1,21 @@
-- item: 首页
+- item: 导航首页
   icon: fa fa-home
   link: "./"
 
-- item: 博客
-  icon: fa fa-blog
-  link: https://blog.moorli.de/
+#- item: 博客
+ # icon: fa fa-blog
+  #link: https://blog.moorli.de/
 
-- item: 更多
-  icon: fa fa-cog
-  link: ""
-  list:
-    - name: 网盘
-      icon: fab fa-github-alt
-      link: "https://cloud.moorli.de"
-    - name: 状态
-      icon: fab fa-font-awesome
-      link: "https://tz.moorli.de/"
+#- item: 更多
+ # icon: fa fa-cog
+  #link: ""
+  #list:
+   # - name: 网盘
+    #  icon: fab fa-github-alt
+     # link: "https://cloud.moorli.de"
+    #- name: 状态
+     # icon: fab fa-font-awesome
+      #link: "https://tz.moorli.de/"
     # - name: 文档
     #   icon: fas fa-file-alt
     #   link: "https://doks.xazz.top/"
